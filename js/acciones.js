@@ -35,7 +35,6 @@ $(document).ready(function(e) {
 		
 		element.innerHTML = 'Aceleracion en X: ' + acceleration.x + '<br />' +
 		                    'Aceleracion en Y: ' + acceleration.y + '<br />' +
-							'Aceleracion en Z: ' + acceleration.z + '<br />' +
 							'Intervalo: '      + acceleration.timestamp + '<br />';
 	}
 	
